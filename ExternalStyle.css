@@ -1,0 +1,66 @@
+*{
+    margin:0 ;
+    padding:0 ;
+}
+body{
+    background: rgb(244,244,246);
+
+    padding-top: 44px;
+}
+.DS_header {
+    background: rgb(40,133,202);
+    line-height:44px ;
+    font-size:18px;
+    text-align:center;
+    color: white;
+    left: 0;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+
+
+}
+.DS_second_section img{
+    width: 100%;
+}
+.common_section img {
+    width: 100%;
+}
+section{
+    display: block;
+}
+footer a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    background: white;
+    width: 20%;
+    background: rgb(40,133,202);
+
+}
+footer{
+    width: 100%;
+    display: table;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+
+}
+ul li span{
+
+
+    display:block;
+font-size: 12px;
+
+}
+footer a img{
+    width: 18px;
+}
+footer a span{
+    display:block;
+
+}
